@@ -6,7 +6,7 @@ The project uses **Google Gemini** as the underlying AI model for agent reasonin
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 Planning is a core capability of intelligent agents. Instead of reacting to a single prompt, a planning agent reasons about:
 - The current state of the world
@@ -19,7 +19,7 @@ In this project, the reasoning and decision-making process is supported by the *
 
 ---
 
-## 🧠 Model Used
+##  Model Used
 
 - **LLM:** Google Gemini  
 - **Role of the model:**
@@ -59,7 +59,7 @@ This approach allows testing different scenarios by changing only the problem fi
 
 ---
 
-## ▶️ How to Run
+## How to Run
 
 ### Run the Notebook
 
